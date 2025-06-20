@@ -10,6 +10,7 @@ payload:
  - DOMAIN-SUFFIX,snob.ru
  - DOMAIN-SUFFIX,novayagazeta.ru
  - DOMAIN-SUFFIX,moscowtimes.ru
+ - DOMAIN-SUFFIX,libria.fun
  - DOMAIN-KEYWORD,animego
  - DOMAIN-KEYWORD,yummyanime
  - DOMAIN-KEYWORD,yummy-anime
@@ -20,4 +21,3 @@ payload:
  - DOMAIN-KEYWORD,animelib
  - DOMAIN-KEYWORD,ikianime
  - DOMAIN-KEYWORD,anilibria
- - DOMAIN-KEYWORD,libria
