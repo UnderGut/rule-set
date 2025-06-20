@@ -1,1 +1,13 @@
-
+payload:
+ - PROCESS-NAME,Hearthstone.exe
+ - PROCESS-NAME,r5apex_dx12.exe
+ - PROCESS-NAME,PathOfExile.exe
+ - PROCESS-NAME,PathOfExileSteam.exe
+ - PROCESS-NAME,PathOfExile_x64.exe
+ - PROCESS-NAME,PathOfExile_x64Steam.exe
+ - PROCESS-NAME,PathOfExile2Installer.exe
+ - PROCESS-NAME,Wow.exe                # Основной клиент игры
+ - PROCESS-NAME,Agent.exe              # Фоновый апдейтер
+ - PROCESS-NAME,Battle.net.exe         # Лаунчер Blizzard
+ - PROCESS-NAME,WowVoiceProxy.exe      # Голосовой чат
+ - PROCESS-NAME,Battle.net-Setup.exe   # Установщик лаунчера
