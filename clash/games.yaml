@@ -12,3 +12,4 @@ payload:
  - PROCESS-NAME,WowVoiceProxy.exe          # World of Warcraft — голосовой чат
  - PROCESS-NAME,Battle.net-Setup.exe       # Установщик лаунчера Blizzard Battle.net
  - PROCESS-NAME,REPO.exe                   # REPO — инди-игра с элементами киберпанка
+ - PROCESS-NAME,Rust.exe                  
