@@ -16,3 +16,4 @@ payload:
  - PROCESS-NAME,ExecPubg.exe          
  - PROCESS-NAME,TslGame.exe     
  - PROCESS-NAME,zksvc.exe     
+ - PROCESS-NAME,TslGame_ZK.exe     
