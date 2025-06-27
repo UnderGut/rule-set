@@ -13,3 +13,6 @@ payload:
  - PROCESS-NAME,Battle.net-Setup.exe       # Установщик лаунчера Blizzard Battle.net
  - PROCESS-NAME,REPO.exe                   # REPO — инди-игра с элементами киберпанка
  - PROCESS-NAME,RustClient.exe                  
+ - PROCESS-NAME,ExecPubg.exe          
+ - PROCESS-NAME,TslGame.exe     
+ - PROCESS-NAME,zksvc.exe     
