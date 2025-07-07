@@ -1,4 +1,7 @@
 payload:
  - DOMAIN-SUFFIX,amazonaws.com
  - DOMAIN-SUFFIX,kingsgroupgames.com
+ - DOMAIN-SUFFIX,funplus.com
+ - DOMAIN-SUFFIX,ilivedata.com
  - DOMAIN-KEYWORD,kingsgroupgames
+ 
