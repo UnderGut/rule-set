@@ -1,5 +1,8 @@
 payload:
  - DOMAIN-SUFFIX,amazonaws.com
+ - DOMAIN-SUFFIX,sfx.ovh
+ - DOMAIN-SUFFIX,ovh.com
+ - SOMAIN-SUFFIX,dubybot.live
  - DOMAIN-SUFFIX,kingsgroupgames.com
  - DOMAIN-SUFFIX,funplus.com
  - DOMAIN-SUFFIX,ilivedata.com
